@@ -750,7 +750,29 @@ function library:Introduction()
     barLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
     barLayout.SortOrder = Enum.SortOrder.LayoutOrder
     
- 
+    xsxLogo.Name = "zunlogo"
+    xsxLogo.Parent = background
+    xsxLogo.AnchorPoint = Vector2.new(0.5, 0.5)
+    xsxLogo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    xsxLogo.BackgroundTransparency = 1.000
+    xsxLogo.Position = UDim2.new(0.5, 0, 0.5, 0)
+    xsxLogo.Size = UDim2.new(0, 448, 0, 150)
+    xsxLogo.Visible = true
+    xsxLogo.Image = "http://www.roblox.com/asset/?id=87456329325510"
+    xsxLogo.ImageColor3 = Color3.fromRGB(159, 115, 255)
+    xsxLogo.ImageTransparency = 1
+    
+    hashLogo.Name = "hashLogo"
+    hashLogo.Parent = background
+    hashLogo.AnchorPoint = Vector2.new(0.5, 0.5)
+    hashLogo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    hashLogo.BackgroundTransparency = 1.000
+    hashLogo.Position = UDim2.new(0.5, 0, 0.5, 0)
+    hashLogo.Size = UDim2.new(0, 150, 0, 150)
+    hashLogo.Visible = true
+    hashLogo.Image = "http://www.roblox.com/asset/?id=86422957911112"
+    hashLogo.ImageColor3 = Color3.fromRGB(159, 115, 255)
+    hashLogo.ImageTransparency = 1
     
     xsx.Name = "xsx"
     xsx.Parent = background
