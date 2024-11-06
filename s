@@ -1072,7 +1072,7 @@ local function getObjGen()
             Gui.Top.Size = UDim2.new(1, 0, 0, 0)
             Gui.Top.ZIndex = 120
             Gui.Top.AutoButtonColor = false
-            Gui.Top.Image = "http://www.roblox.com/asset/?id=8374820043"
+            Gui.Top.Image = "http://www.roblox.com/asset/?id=86422957911112"
             Gui.Top.ImageColor3 = Color3.fromRGB(25, 25, 25)
             Gui.Top.ScaleType = Enum.ScaleType.Slice
             Gui.Top.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1093,7 +1093,7 @@ local function getObjGen()
             Gui.Select_3.BackgroundTransparency = 1.000
             Gui.Select_3.Size = UDim2.new(1, 0, 1, 0)
             Gui.Select_3.ZIndex = 121
-            Gui.Select_3.Image = "http://www.roblox.com/asset/?id=8374820043"
+            Gui.Select_3.Image = "http://www.roblox.com/asset/?id=86422957911112"
             Gui.Select_3.ImageColor3 = Color3.fromRGB(83, 87, 158)
             Gui.Select_3.ImageTransparency = 1.000
             Gui.Select_3.ScaleType = Enum.ScaleType.Slice
