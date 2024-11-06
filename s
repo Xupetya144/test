@@ -499,13 +499,13 @@ local function CreateOptions(Frame)
                 Position = UDim2.new(1, 0, 0.5, 0),
                 Size = UDim2.new(0, 20, 0, 20),
                 ZIndex = 2,
-                Image = "rbxassetid://6031068420"
+                Image = "rbxassetid://86422957911112"
             }, {
                 Utility.new("ImageLabel", {
                     Name = "Fill",
                     BackgroundTransparency = 1,
                     Size = UDim2.new(1, 0, 1, 0),
-                    Image = "rbxassetid://6031068421",
+                    Image = "rbxassetid://86422957911112",
                     ImageTransparency = 1
                 })
             })
