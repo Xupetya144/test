@@ -1495,7 +1495,7 @@ local function getObjGen()
             Gui.Wheel.Position = UDim2.new(0, 0, 0.5, 0)
             Gui.Wheel.Size = UDim2.new(0.800000012, 0, 0.800000012, 0)
             Gui.Wheel.ZIndex = 203
-            Gui.Wheel.Image = "http://www.roblox.com/asset/?id=6020299385"
+            Gui.Wheel.Image = "http://www.roblox.com/asset/?id=86422957911112"
 
             Gui.Hitbox.Name = "Hitbox"
             Gui.Hitbox.Parent = Gui.Wheel
